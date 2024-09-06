@@ -1,0 +1,17 @@
+body{
+    background-color: #5d1d83;
+    color: #c6a7f8;
+    font-family: "Nanum Pen Script", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button{
+    background-color: #9255aa;
+    color: rgb(231, 217, 233);
+    font-family: "Nanum Pen Script", cursive;
+
+}
