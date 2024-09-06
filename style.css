@@ -15,3 +15,11 @@ button{
     font-family: "Nanum Pen Script", cursive;
 
 }
+
+.passo{
+    display: none;
+}
+
+.passo.ativo{
+    display:block;
+}
