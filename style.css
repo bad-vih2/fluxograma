@@ -1,7 +1,7 @@
-body{
-    background-color: #5d1d83;
-    color: #c6a7f8;
-    font-family: "Nanum Pen Script", cursive;
+body {
+    background-color: #1D4221;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,14 +9,13 @@ body{
     margin: 0;
 }
 
-button{
-    background-color: #9255aa;
-    color: rgb(231, 217, 233);
-    font-family: "Nanum Pen Script", cursive;
-
+button {
+    background-color: #64A712;
+    color: white;
+    font-family: "Bai Jamjuree", sans-serif;
 }
 
-.passo{
+.passo {
     display: none;
 }
 
@@ -28,8 +27,6 @@ main {
     text-align: center;
     max-width: 90%;
 }
-
-
 
 img {
     max-width: 90%;
